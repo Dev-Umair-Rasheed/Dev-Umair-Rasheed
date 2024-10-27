@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Android, Java, Kotlin, Jetpack Compose**
 
-- 📫 How to reach me **umair.rasheed.work@gmail.com**
+- 📫 How to reach me **contact.developer.umair@gmail.com**
 
 - ⚡ Fun fact **I am a Programmer with a good Sense Of Humour**
 
