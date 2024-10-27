@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-umair-rasheed&label=Profile%20views&color=0e75b6&style=flat" alt="dev-umair-rasheed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-umair-rasheed" alt="dev-umair-rasheed" /></a> </p>
-
 - 🔭 I’m currently working on **TeqTak**
 
 - 🌱 I’m currently learning **Backend Development using Node.js & PHP**
